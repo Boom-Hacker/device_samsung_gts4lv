@@ -1,0 +1,1 @@
+# device_samsung_gts4lv
